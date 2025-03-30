@@ -1,7 +1,7 @@
 # bEditor
 
 bEditor is a text editor written in C and runs in the CMD terminal.
-* This program uses the Win32 API and is a windows only program.
+* This program uses the Win32 API and is a Windows only program.
 * The keybinds of this program is made for a Swedish/Scandinavian keyboard.
 * All keys correlating to an ASCII character works,
 * This program uses `ALT+key` instead of `ALT+SHIFT+key`
